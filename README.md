@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Meena Rathod
+- 👀 I’m interested in Programming
+- 🌱 I’m currently Developer
